@@ -1,0 +1,1 @@
+Mobipress is an application useful for "Blogging System" in Mobile Devices.
